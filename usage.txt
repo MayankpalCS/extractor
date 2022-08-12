@@ -1,1 +1,1 @@
-First copy paste the string from which you might want to extract vital information like email,phone numbers,webpages in input.txt and them simply run extract.py
+First copy paste the string from which you might want to extract vital information like email,phone numbers,webpages in input.txt and then simply run extract.py
